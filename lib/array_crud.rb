@@ -17,25 +17,31 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  
+  family = ["mom", "dad", "sisters", "brother"]
+  family.unshift("wow")
 end
 
 def remove_element_from_start_of_array(array)
-  
+  family = ["mom", "dad", "sisters", "brother"]
+  family.unshift("wow")
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  family = ["mom", "dad", "sisters", "brother"]
+  family.unshift("wow")
 end
 
 def retrieve_first_element_from_array(array)
-  
+  family = ["mom", "dad", "sisters", "brother"]
+  family.unshift("wow")
 end
 
 def retrieve_last_element_from_array(array)
-  
+  family = ["mom", "dad", "sisters", "brother"]
+  family.unshift("wow")
 end
 
 def update_element_from_index(array, index_number, element)
-
+  family = ["mom", "dad", "sisters", "brother"]
+  family.unshift("wow")
 end
