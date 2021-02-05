@@ -37,7 +37,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  family = ["mom", "dad", "sisters", "wow"]
+  family = ["mom", "dad", "sisters", "arrays!"]
   family[-1]
 end
 
