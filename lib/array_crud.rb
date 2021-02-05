@@ -1,9 +1,9 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  family = ["mom", "dad", "sisters", "brother"]
 end
 
 def add_element_to_end_of_array(array, element)
